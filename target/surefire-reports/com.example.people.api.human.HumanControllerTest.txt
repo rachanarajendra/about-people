@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.people.api.human.HumanControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.198 s -- in com.example.people.api.human.HumanControllerTest
